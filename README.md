@@ -20,8 +20,8 @@ CommonMark[^commonmark]をベースにしています。
 
 ```mermaid
 gantt
-    title
-    dateFormat
+    title プロジェクトスケジュール
+    dateFormat YYYY-MM-DD
     section 設計
         要件定義    :a1, 2025-01-01, 14d
         基本設計    :a2, after a1, 10d
