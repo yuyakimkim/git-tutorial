@@ -19,6 +19,15 @@ CommonMark[^commonmark]をベースにしています。
 このドキュメントは以上です。
 
 ```mermaid
-flowchart TB
-    A([開始]) --> B[データ取得]
+gantt
+    title
+    dateFormat
+    section 設計
+        要件定義:a1, 2025-01-01, 14d
+        基本設計:a2, after a1, 10d
+    section 開発
+        フロントエンド:b1, after a2, 20d
+        バックエンド:b2, after a2, 25d
+    section テスト
+        結合テスト:c1, after b2, 10d
 ```
