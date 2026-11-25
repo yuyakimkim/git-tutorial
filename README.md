@@ -17,3 +17,8 @@ CommonMark[^commonmark]をベースにしています。
 [^commonmark]: CommonMarkはMarkdownの標準化を目指す仕様です。
 
 このドキュメントは以上です。
+
+```mermaid
+flowchart TB
+    A([開始]) --> B[データ取得]
+```
