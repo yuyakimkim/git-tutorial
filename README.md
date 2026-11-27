@@ -37,3 +37,13 @@ gantt
 
 ここに折りたたまれる内容を記述します。
 </details>
+
+
+<details open>
+<summary>サンプルコード</summary>
+
+```python
+print("Hello, World!")
+```
+
+</details>
