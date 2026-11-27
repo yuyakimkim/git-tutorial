@@ -31,3 +31,9 @@ gantt
     section テスト
         結合テスト    :c1, after b2, 10d
 ```
+
+<detail>
+<summary>クリックして展開</summary>
+
+ここに折りたたまれる内容を記述します。
+</detail>
