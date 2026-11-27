@@ -32,8 +32,8 @@ gantt
         結合テスト    :c1, after b2, 10d
 ```
 
-<detail>
+<details>
 <summary>クリックして展開</summary>
 
 ここに折りたたまれる内容を記述します。
-</detail>
+</details>
